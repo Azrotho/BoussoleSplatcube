@@ -1,0 +1,6 @@
+main: fr.azrotho.splatboussole.SplatBoussole
+name: SplatBoussole
+version: 1.0
+api-version: 1.19
+author: Azrotho
+description: Plugin permettant de se téléporter sur des serveurs
